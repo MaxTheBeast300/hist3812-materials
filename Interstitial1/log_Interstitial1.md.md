@@ -8,7 +8,7 @@ tags: New, storytelling,
 
 This module was all about storytelling, and the implications that may come with it, may it be on the ethical, social, or technical dimension. For the first five weeks, we tried to do some simple "game" and platform building for storytelling. This include mural, Twine, and twitterbots. 
 
-+ link to the relevant github repo: like this: `[Interstitial 1](https://github.com/MaxTheBeast300/hist3812-materials)`
++ link to the relevant github repo: like this:  [Interstitial 1](https://github.com/MaxTheBeast300/hist3812-materials/blob/main/Interstitial1/log_Interstitial1.md.md)
 
 ## how it might connect to other research I'm doing
 
@@ -30,7 +30,7 @@ While my major (architecture) may seem strikingly different than games and story
 	![jesus](twitterAccount.jpg)
 	+ The first error I encountered was twitterbots giving me an error that my twitter account was suspended when it clearly wasn't. It only took a few minutes for me to realize that maybe I only needed to wait a few minutes which seemed to have done the trick (The internet... such a mystery). 
 
-![twittererror](twitterError1.png)
+![twittererror](twitterError1.jpg)
 	+ Then, I was able to properly push forward my first tweets and I couldn't stop giggling at myself that this "counterfeit" jesus was saying "un-jesus" things, yet trying to keep the essence of Jesus. 
 
 ![sucess](twitterSuccess.jpg)
@@ -45,4 +45,7 @@ The biggest challenge for me these few weeks was coming up with an idea and an *
 ## thoughts on where to go next
 
 I want to continue and keep these thoughts in a barrel and ferment them slowly, but not too slowly because I will need to put my unessay into action soon. As for now, I have found a group where a potential minecraft project may happen. It will be a challenge for us to playfully engage with the past using minecraft but also making it meaningful to anyone that may not be familiar with the nature of the game (sandbox). I also have to be careful that I'm not just building something for the sake of building something historical, but actively engaging with the material and narrating a story with its historical context. 
+
+## Unessay
+
 
