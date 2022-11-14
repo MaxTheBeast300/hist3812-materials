@@ -8,7 +8,7 @@ tags: HPS, difficult, mind-blowing
 
 This week was all about getting in that playfulness of play and the implications of playing a game in the historical context. The Historical Problem Space (HPS) Framework was the focus of this module since all the theories that we looked at before applied to the framework and worked hand in hand with framing the grid. 
 
-+ link to the relevant github repo: [interlude2](https://github.com/MaxTheBeast300/hist3812-materials/interlude2)
++ link to the relevant github repo: [interlude2](https://github.com/MaxTheBeast300/hist3812-materials/blob/main/interlude2/log_interlude2.md.md)
 
 ## how it might connect to other research I'm doing
 
@@ -35,7 +35,10 @@ I feel like the HPS Framework might not be limited to just games since the menta
 	+ Mural is a tool to create interactive websites using something like an interactive powerpoint. You could go in all directions, seeing things as you wished without following a linear movement, but it still wasn't completely free of control. 
 	+ Here, mural would probably be the genre, the gameworld the website, and the player the viewer, but what about the agents, obstacles etc? It was really difficult making sense of these elements in the mural context. It is easy enough to figure out the goal of mural, but how do you figure out what agents, tools, and resources affects that goal? 
 	+ While I feel like part of the HPS framework could help a mural creator of their website's historical implications, it is hard to individually identify the elements that make the whole framework. 
-
++ The last exercise of the week was on the last day of interlude 2 when played around with Inkle. While I love twine and its customization, I find Inkle much easier and smoother to work with. The interface is not convoluted, everything is intuitive, and the result is clean and doesn't require much tweaking, unlike twine where the default result is usually bland (and personally a little ugly), which is why twine often requires a lot of personalization to make it easy to read. 
+	+ I had a lot of fun playing around with Inkle. There was a whole tutorial article, but it was too long and I just wanted to get started with it! As I mentioned earlier, it is pretty intuitive so just by looking at the picture here allowed me to get a good idea how the software worked and how to used the different punctuation for different effects and results. ![tuto](tutoInkle.jpg)
+	+ Using this tutorial screenshot, I tried to recreate the general flow of it into my own spin. I referenced the Lord of the Rings: The Return the King, more specifically the silence before the big war on the plain of Minas Tirith and how it may have looked through the nameless soldiers waiting for the inevitable doom.  ![Inkle](inkle1.jpg)
+	+ I was initially confused about which voice was supposed to lead the story, but I think I figured it out. It looks like in the tutorial, the player plays as themselves (or through the first person view of the character), and as such uses first-person words like "I" or "me". I only played with this for a few minutes so it lacks a larger historical contextualization, but it's really interesting how you guide a story.  
 
 ## challenges 
 
@@ -45,7 +48,7 @@ I believe the biggest challenge for me this module is how to effectively apply t
 
 As mentioned in my challenges, I plan on using the HPS framework with my unessay. I am currently engaged in a colloborative minecraft project with 3 other people (some of which I believe may change the nature of their unessay), so I think it would be beneficial to start talking about the goals, agents, players, and tools of the minecraft project being made. If we can lay these historical foundations early, maybe it will be easier to set a goal and prevents us from descending into madness!
 
-Here is the beginning of a building done (St. Basil's) by Asky (known on discord as Kai), we plan on building many different buildings creating a *museum of buildings*. 
+Here is the beginning of a building done (St. Basil's) by Ky (known on discord as Kai), we plan on building many different buildings creating a *museum of buildings*. 
 
 ![minecraftStBasil](minecraft1.jpg)
 
