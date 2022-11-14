@@ -1,0 +1,53 @@
+---
+interlude: Interlude 2
+date: {{2022-12-13}}
+tags: PLayful, HPS, implication
+---
+
+# Introduction 
+
+I would like to start this reflection with this question ([from the oct 12 slides](https://hist3812.netlify.app/slides/oct12.html#/30)): **What might it mean to be able to 'play history'?**[^1] Before we can answer this question, we have to strip down to basics. *What is 'play' to an animal and play to a child?* Some may say that an animal playing is that animal learning survival instincts that will be useful during hunts. Others might say that it is a bonding experience, bonding two sibling animals. A child playing might appear to someone has the child trying to learn an entire world where everything looks unknown or maybe it's just them seeing funny colors and shapes and bashing things together. In all cases, there is something to be learned from playing, no matter how "senseless" it may seem. Therefore, when we **'play history'**, I argue that we partake in the process of learning. We are learning from bashing things together, collaborating with others, and thinking about what we don't know. And from the things we don't know, we feel enchantment! Sara Perry in [**_The Enchantment of the Archaeological Record_**](https://www-cambridge-org.proxy.library.carleton.ca/core/journals/european-journal-of-archaeology/article/enchantment-of-the-archaeological-record/6B71DCDB28D3FABE22660EEA860ED7FE) argues the following quote:
+
+> One might argue, borrowing from political theorist Jane Bennett, that archaeological and heritage sites have the power to *enchant,* and, in so doing, they stand as seedbeds for human generosity, ethical mindfulness, and care for the world at large. In order words, archaeology can move us - it can 'reminds us that it is good to be alive' - and this affectie response can motivate us to act back on the world in constructive, ethically-minded ways.[^2] 
+
+Pardon the long quote, but I believe this strongly represents human curiosity at the very primitive level. Looking at the past *enchants* us, but we cannot let this enchantment cloud our ethical mindfulness for that history which is where playing history comes to. It allows us to satiates this *enchantments* by playing with history, pushing the boundaries of conservative archaeology, and remixing history (Kirby Ferguson's 2015 *Everything is a Remix* on [YouTube](https://www.youtube.com/watch?v=nJPERZDfyWc) shows an example of playful history that I found really intriguing and telling[^3]) while preserving both authenticy and respect for the history. As such, what kind of questions that historians ask could spark 'enchantments'? I believe that any question that evoke "emotive engagement"[^4] can spark 'enchantments' because at its core, enchantments is the generation of human curiosity which is deeply emotional. For example, I could ask some historical question about your ancestors and the thought of knowing more about your family line may motivate you in looking closer at that past. Furthermore, I believe that different medias have different innate aptitude at conveying enchantments that depends on personal taste and experience. For someone that is deeply invested in books, perhaps a fictional historical narrative might be impactful to them than to someone who doesn't read many books if at all (that's me!). On the other hand, someone that feels more engaged with visual contents might find a lot more value with a random YouTube video made by a passionate amateur historian. Therefore I ask you, 
+
+> *What happens when you show someone heavily disinterested in books a large volume about this fascinating ancient civilization? Could we argue that this could lead to disenchantment? Therefore scaring away someone from an historical event that could have enchanted them had it been done in a compatible way?*  
+
+This is all to say that the way you remix history can affect the enchantment potency. 
+
+The notion of enchantment resonated strongly with me when I was doing the Augmented Reality exercise. You have these ancient looking pages that first appear illigible to you, but with the help of a scanner, you can uncover its mysteries and slowly form a narrative of fractured evidence. The thought of merging both the physical and digital world and hiding the physical world's evidence behind a digital barrier intrigued me. I felt like I had to scan everything around me to see if something would pop up and tell me more about the object. 
+
+I personally believe that enchantments can be better conveyed when the history is authentic rather than 100% accurate. In light of this, I'd like to quickly turn to T. Mills Kelly's [*"But Mine's better": Teaching History in a Remix Culture*](-   Kelly, M. 2011. ‘“But Mine’s Better”: Teaching History in a Remix Culture’ _The History Teacher_ 44.3 369-377. [link](https://www.jstor.org/stable/41303990)) and how authenticity in history can better transfer ideas.[^5] The students of Mills Kelly's class had created a remix of her previously shown historical video in order to replace some music that did not feel appriopriate to the history. That remixed newsreel spawned from playful history was a more 'authentic' source in the view of that student for the context of teaching.[^6] I think the keyword "teaching" here is important. I do not think this would be appriopriate as a scholarly source in academic papers; however, when presented in the context of teaching and for the goal of conveying ideas and thinking, I think the remix here was better than the original. In short, the emotional response to the inapprioriate soundtrack of the newsreel created an enchantment with that history and led to it being played with. 
+
+When enchanted, someone may try to play with history through the creation of games. In so doing, they must be conscious of the agency present in games and the ethical applications of the choices and narratives. This is where Jeremiah McCall 2020's [Historical Problem Space Framework](http://gamestudies.org/2003/articles/mccall) introduces itself to the historical scene.[^7] I believe the HPS framework to be one of the core method of thinking in this course since it will be relied on to shape a logical and consciously made unessay with a clear goal, agents, player, and gameworld. 
+
+
+
+Does hps apply beyond games?
+
+
+I would like to finish this reflection with a quick look at this quote I took from Professor Graham's [tutorial on *Playful Engagement with GPT3*](https://hist3812.netlify.app/syllabus/gpt3/):
+
+> BUT, as students, as historians, we can’t just make things willy-nilly. Any creation you make with GPT-3 _must_ be accompanied with your analysis of its design. **Without** that critical engagement, you are not doing history, you’re merely _toying_ with it.
+
+In an environment where completion is favoured over experimentation and imcompletion, it can be hard to branch out from the habit of just completing something for the sake of completing a task/assignment. I found this refreshing and as a **strong reminder that to play with history is to critically engage with it**. Therefore, my unessay cannot merely toy with history, but must show critical engagement while being playful. 
+
+## Challenges
+
+I understand why the application of the HPS framework can be immensily helpful in developing ethical historical games, I still struggle with the practical application of the framework with my own works. Identifying each elements proves difficult since they can often be ambiguous, so it is hard to get a clear and conscise framework. Perhaps it is harder for me to understand how my unessay is communicating history since my goal may be too vague. Perhaps a tighter goal could help narrow exactly what history I want to communicate to the player. 
+
+## Changes I'm making moving forward
+
+I'm hoping to start working on my unessay more in the next few weeks and developing my ideas further. It is still vague and I may even do something completely different yet. The problem with playful history is that there are **SO** many ways of playing with history that it makes it difficult for me to choose only one method. Since the first day I heard about the unessay, I was dead set on doing something with minecraft; however, with all the different tools I have been exploring, there are so many other satisfying paths I could walk. If I decide to change path, I may jump onto the A.I. path since I believe it is one of the most recent and thus unexplored path of historical playfulness. The ethical dimension of A.I. technology is forever changing with A.I. development, so laying down the implications of using Artificial Intelligence with history will be crucial for that unessay.
+
+## Relevant Log Files
+You can find my log at: [log2](https://github.com/MaxTheBeast300/hist3812-materials/blob/main/interlude2/log_interlude2.md.md)
+
+[^1]: Graham, Shawn. HIST3812, slides for October 12, 2022, [slides](https://hist3812.netlify.app/slides/oct12.html#/30).
+[^2]: Perry, S. 2019. ‘The Enchantment of the Archaeological Record.’ _European Journal of Archaeology_ 22.3 [link](https://www-cambridge-org.proxy.library.carleton.ca/core/journals/european-journal-of-archaeology/article/enchantment-of-the-archaeological-record/6B71DCDB28D3FABE22660EEA860ED7FE)
+[^3]: Watch: Ferguson, Kirby. 2015. Everyting is a Remix (remastered). [youtube](https://www.youtube.com/watch?v=nJPERZDfyWc).
+[^4]: Perry, S. 2019. 'The Enchantment of the Archaeological Record.' *European Journal of Archaeology* 22.3. [link](https://www-cambridge-org.proxy.library.carleton.ca/core/journals/european-journal-of-archaeology/article/enchantment-of-the-archaeological-record/6B71DCDB28D3FABE22660EEA860ED7FE)
+[^5]: Kelly, M. 2011. ‘“But Mine’s Better”: Teaching History in a Remix Culture’ _The History Teacher_ 44.3 369-377. [link](https://www.jstor.org/stable/41303990)
+[^6]: Ibid.
+[^7]: McCall, Jeremiah. 2020. [‘The Historical Problem Space Framework: Games as Historical Medium’](http://gamestudies.org/2003/articles/mccall) _Game Studies_ 20.3.
