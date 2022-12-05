@@ -1,0 +1,36 @@
+---
+tutorial: Interlude 3
+date: {{11/12/2022}}
+tags: 
+---
+
+## Prelude
+
+
+
+## what I was trying to do
+
+_description in own words; link to relevant tutorial or other materials_
+
++ Link to the relevant github repo: [Interlude3](https://github.com/MaxTheBeast300/hist3812-materials/tree/main/Interlude3)
+
+## how it might connect to other research I'm doing
+
+_describe; cross link to other research as appropriate_
+
+## what I did
+
++ step 1  
+	+ results
++ step 2
+	+ results 
++ step 3
+	+ results
+
+## challenges 
+
+_error messages, unclear instructions, gaps in my knowledge, links to relevant asks for help on discord, stackoverflow posts, websites I went to for help_
+
+## thoughts on where to go next
+
+_what can I do? who can I talk to? links to posts in discord, helpf fora, etc. links to other research projects etc_
