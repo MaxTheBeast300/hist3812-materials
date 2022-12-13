@@ -78,7 +78,7 @@ of the critic of the critic of
 + Parable of the Polygon
 	+ The final activity was the  [Parable of the Polygons](https://ncase.me/polygons/). Since I wasn't there for the Netlogo and the Parable, I didn't get the in class explanation of these programs, but I feel like it was a lot easier for me to understand Parable of the Polygons with the visual explanations of its simulation concept. The logical progression of the explanation is a great way of reaching out to a wider audience by removing complicated technical terms and simplifying everything in a visual narrative. 
 	+ As I was going through the instruction, it then asked me to move the polygons in this big square until the triangles and square were happy. And so I did.
-![square1](square1.png)
+![square1](square1.jpg)
 ![square2](square2.jpg)
 + I was now proud of myself for making everyone happy in their corner, but then the author said this line: **"And... our shape society becomes super segregated. Daaaaang."** Oh-. Well, this is awkward. At first, the square felt varied and diverse, but with everyone happy, everyone was now in their own corners, segregated, I didn't see that coming. 
 + We further went on to discuss how a simple crack in their happiness could cascade in a whole event of segregation and isolations in their own corners. 
