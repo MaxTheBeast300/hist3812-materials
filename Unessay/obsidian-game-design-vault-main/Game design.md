@@ -97,6 +97,12 @@ Inside View of  St Basil: 
 
 [[Problems and Where Next]]
 
+# Individual Conclusive Thoughts
+
+We've decided that we will all individually write a reflection on the unessay reflecting on the main points, arguments, and conclusions we think.
+
+Here is mine (Max): [[MaxUnessayReflection.md]]
+
 ---
 
 -- Disclaimer --
