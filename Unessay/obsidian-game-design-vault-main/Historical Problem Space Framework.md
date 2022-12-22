@@ -19,7 +19,7 @@ The Historical Problem Space (HPS) Framework is a game design concept developed 
 [Max]
 ## Gameworld
 - Historical buildings in a virtual sandbox space: explorable, explicit space
-[Shafik]
+[Salma]
 ## Player Agent
 - The audience (Porfessor Shawn)
 - Some player ability restricted (players always in adventure mode so they can't destroy the blocks or build)

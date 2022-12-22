@@ -6,7 +6,7 @@ The Saint Basil Cathedral is a church located near the Red Square in Moscow. The
 
 The church was designed by two Russian Architects, Posnik and Barma. It was also said in a popular legend it was built by an Italian architect who was blinded, causing him to be unable to replicate a church that is equivalent or similar to the St Basil cathedral (J.E. Luebring, 1). 
 
-[Shafik]
+[Salma]
 ### Notre Dame of Paris:
 
 Notre Dame de Paris, meaning "Our Lady of Paris", is a historic Roman Catholic cathedral located in the fourth arrondissement of Paris, France. It is considered to be one of the finest examples of French Gothic architecture, and it is among the most well-known and most visited monuments in the world. Construction of the cathedral began in 1163, initiated by Maurice de Sully, bishop of Paris, and was completed in 1345. It is dedicated to the Virgin Mary and is the seat of the Archbishop of Paris. The cathedral has been an important monument in the history of France, and it has been the site of numerous important historical events. It has been a witness to revolutions, wars, and major milestones in French history. The cathedral features a symmetrical design, with two towers (69 m) flanking a central nave, and a façade featuring three large portals and two rose stained glass windows. The interior is divided into three levels, the ground level, the triforium, and the clerestory. The ground level contains the main halls of the cathedral, including the choir and the nave. The triforium is a gallery which is located between the ground level and the clerestory. The clerestory is the highest level, which contains the stained glass windows. The roof of the cathedral is composed of a series of steeply sloped arches, creating a distinctive silhouette.
